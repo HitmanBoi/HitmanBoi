@@ -34,12 +34,15 @@ I am a Full Stack Blockchain Developer/Engineer and I love Solidity and ICP BLoc
                     </picture>
                     </a></p>
 
-  ### Badges
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HitmanBoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HitmanBoi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HitmanBoi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<b>My GitHub Stats</b>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HitmanBoi&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="http://www.github.com/HitmanBoi"><img src="https://github-readme-stats.vercel.app/api?username=HitmanBoi&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HitmanBoi's GitHub stats" /></a>
+---
+[![](https://visitcount.itsvg.in/api?id=HitmanBoi&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/HitmanBoi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HitmanBoi&stroke=ffffff&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/HitmanBoi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitmanBoi&langs_count=10&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
