@@ -4,6 +4,7 @@
  
 <h1 align="center">Hi 👋, I'm Kamalkant Pareek</h1>
 <h2 align="center">Blockchain Developer | Quantum Computing enthusiast</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -48,6 +49,8 @@
 
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 # 📊 GitHub Stats:
 
@@ -57,7 +60,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/HitmanBoi">
 
@@ -67,8 +70,9 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HitmanBoi&theme=nightowl"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HitmanBoi&icon=5&color=12)](https://visitcount.itsvg.in)
