@@ -14,8 +14,8 @@
 <div align="center">
  
 <img src="https://dlcdnwebimgs.asus.com/gain/de9b7594-6143-4370-a14c-7220ac3b08c6/w800"  width="150" height="150"> 
-<img src="https://support.hp.com/wcc-assets/document/images/362/c03374371.jpg" width="150" height="150">
-<img src="https://m.media-amazon.com/images/I/51LEXUFaIWL.SS700.jpg" width="150" height="150">
+<img src="https://github.com/HitmanBoi/HitmanBoi/blob/main/Elitebook_8470p.png" width="150" height="150">
+<img src="https://github.com/HitmanBoi/HitmanBoi/blob/main/Vivobook_x515ma.png" width="150" height="150">
 
  </div>
 
