@@ -3,7 +3,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQHa-A3gO0gjkQ/profile-displaybackgroundimage-shrink_200_800/0/1712693024911?e=2147483647&v=beta&t=Z0-DBk9y2tTto-qZPtvLLLtkcABcILrLrTTb11T2ivg" width="1200">
  
 <h1 align="center">Hi 👋, I'm Kamalkant Pareek</h1>
-<h2 align="center">Blockchain Developer | Quantum Computing enthusiast</h2>
+<h2 align="center">Blockchain Developer | Web3.0 enthusiast</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
